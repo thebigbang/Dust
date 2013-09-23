@@ -1,0 +1,22 @@
+"Dust" is a library which purpose is to offer an easy and quick to manage panel containing one or several graph under Android.
+
+We plan to be able to handle smoothly and seemlessly several events such as zooming with several fingers or moving elements in the graph or even moving inside the graph itself.
+
+Our support begin from API level 11 to ...
+
+#todo (by priority and possibility)#
+* Add support for zooming
+* improve ease of use
+* add more drawing kind
+* add movement inside the graph
+* add possibility to edit points on the go
+* add possibility to create 3d shapes?
+
+#Changelog#
+v0.5: GPL licensing for GitHub and initial commit.
+v0.4: added double touch event for event purposes
+v0.3: added controls over the points drawn: shape, size, color
+v0.2: added line drawing and random generation pattern.
+v0.1: initial Library design for generic dust graph.
+
+Everything is under copyright 2013 by Meï-Garino Jérémy unless specific file stated.
